@@ -77,7 +77,10 @@ EchoNotes/
 
 > A quick look at EchoNotes in action:
 
-![EchoNotes Demo](assets/demo.png)
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/Hardik-Sankhla/Markdown-Resources/main/Image/Demo-EchoNotes.png" alt="EchoNotes Demo">
+</div>
+
 
 ---
 
